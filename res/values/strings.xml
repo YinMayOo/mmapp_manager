@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="keep_loggedin">Keep Me Logged In</string>
+    <string name="sign_in">Sign In</string>
+    <string name="create_account">Create An Account</string>
+    <string name="forget_password">Forget your password?</string>
+    <string name="app_name">Myanmar Hub</string>
+    <string name="dialog_logging_in">Logging In</string>
+    <string name="no_internet">There is no internet conenction available. Please connect or enable mobile network.</string>
+    <string name="name">Name</string>
+    <string name="confirm_password">Confrim Password</string>
+    <string name="ca_no">No</string>
+    <string name="ca_streetname">Street</string>
+    <string name="ca_township">Township</string>
+    <string name="ca_postcode">Post Code</string>
+    <string name="ca_country">Country</string>
+    <string name="ca_btncreate">Create</string>
+    <string name="cancel">Cancel</string>
+    <string name="dialog_registering">Creating Account. Please wait</string>
+    <string name="ca_city">City</string>
+    <string name="ca_hint_name">Please enter name</string>
+    <string name="ca_hint_email">Please enter email address.</string>
+    <string name="ca_hint_password">Please enter password.</string>
+    <string name="ca_hint_streetno">Please enter Street NO.</string>
+    <string name="ca_hint_streetname">Please enter street name.</string>
+    <string name="ca_hint_township">Please enter towship.</string>
+    <string name="ca_hint_city">Please enter city.</string>
+    <string name="ca_hint_confirmpassword">Please confirm password again.</string>
+    <string name="ca_hint_country">Please enter country.</string>
+
+</resources>

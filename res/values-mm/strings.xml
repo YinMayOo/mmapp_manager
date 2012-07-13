@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="email">Email လိပ္စာ</string>
+    <string name="password">စကား၀ွက္</string>
+    <string name="keep_loggedin">မွတ္မိေစခ်င္သည္</string>
+    <string name="sign_in">၀င္ပါ</string>
+    <string name="create_account">မွတ္ပံုတင္ရန္</string>
+    <string name="forget_password">စကား၀ွက္ေမ႕ေနပါသလား ?</string>
+    <string name="app_name">Myanmar Hub</string>
+    <string name="dialog_logging_in">၀င္ေရာက္ေနပါသည္</string>
+    <string name="no_internet">အင္တာနက္ခ်ိတ္ဆက္ထားျခင္းမရွိပါ။ ၀င္ေရာက္ရန္အတြက္ အင္တာနက္ကြန္နက္ရွင္လိုအပ္ပါသည္။</string>
+    <string name="name">အမည္</string>
+    <string name="confirm_password">စကား၀ွက္အတည္ျပဳရန္</string>
+    <string name="ca_no">အမွတ္</string>
+    <string name="ca_streetname">လမ္းအမည္</string>
+    <string name="ca_township">ၿမိဳ႕နယ္</string>
+    <string name="ca_postcode">စာတိုက္အမွတ္</string>
+    <string name="ca_country">ႏိုင္ငံ</string>
+    <string name="ca_btncreate">မွတ္ပံုတင္ပါ</string>
+    <string name="cancel">ပိတ္ပါ</string>
+    <string name="ca_city">ၿမိဳ႕</string>
+    <string name="ca_hint_name">အမည္ထည္႕သြင္းရန္</string>
+    <string name="ca_hint_email">Email လိပ္စာထည္႕ သြင္းရန္</string>
+    <string name="ca_hint_password">စကား၀ွက္ထည္႕သြင္းရန္</string>
+    <string name="ca_hint_streetno">လမ္းအမွတ္ထည္႕သြင္းရန္</string>
+    <string name="ca_hint_streetname">လမ္းအမည္ထည္႕သြင္းရန္</string>
+    <string name="ca_hint_township">ၿမိဳ႕နယ္ထည္႕သြင္းရန္</string>
+    <string name="ca_hint_city">ၿမိဳ႕ထည္႕သြင္းရန္</string>
+    <string name="ca_hint_confirmpassword">စကား၀ွက္ထပ္မံထည္႕သြင္းရန္</string>
+    <string name="ca_hint_country">ႏိုင္ငံေဖာ္ျပရန္</string>
+    
+</resources>
