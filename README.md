@@ -2,7 +2,7 @@ Hello Developer! Much appreciated for the interest in this project. This project
 
 Name
 =====
-Currently the project is temporarily named as "Market". However, the official name of this project is still to be determined. The official name of the project will be announed and used in the final production of the project. You are welcomed to suggest any appropriate name for this project. 
+Currently the project is temporarily named as "MMApp Manager". However, the official name of this project is still to be determined. The official name of the project will be announed and used in the final production of the project. You are welcomed to suggest any appropriate name for this project. 
 
 
 Contribution
