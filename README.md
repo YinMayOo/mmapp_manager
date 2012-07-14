@@ -1,4 +1,4 @@
-Hello Developer! Much appreciated for the interest in this project. This project is hosted by Myanmar-Hub (http://www.myanmarhub.org).
+Hello Developer! Much appreciated for the interest in this project. This project is hosted by Myanmar-Hub.
 
 Name
 =====
